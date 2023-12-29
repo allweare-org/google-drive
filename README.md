@@ -14,13 +14,13 @@
 
 - **move_all_files.py** - script to move all files from one Google drive folder location to another
   - Required environment variables:
-    1. OLD*FOLDER_ID - \_no quotations needed*
-    2. NEW*FOLDER_ID - \_no quotations needed*
+    1. OLD_FOLDER_ID - *Target folder containing files (no quotes needed)*
+    2. NEW_FOLDER_ID - *Source folder where you want to move files (no quotes needed)*
 
 # Custom Libraries
 
-**drive_service.py** - contains all methods for interacting with Google Drive API
-**log.py** - uses python 'logging' library to format errors and save to 'out.log' and 'err.txt' files
+- **drive_service.py** - contains all methods for interacting with Google Drive API
+- **log.py** - uses python 'logging' library to format errors and save to 'out.log' and 'err.txt' files
 
 # References
 
