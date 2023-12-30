@@ -1,3 +1,8 @@
+# Purpose
+- This repo is meant to be a toolkit / starting point for interacting with Google Drive API (both personal and Shared Drives)
+- This contains essential files for setting up environment on local machine or for use in Google Cloud Functions
+
+
 # Setup
 
 1. These routines all use Service Account Authentication
